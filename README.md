@@ -1,1 +1,8 @@
-# esm206-lab4-part2-cf
+# My awesome ReadMe!
+
+-some bullet points
+-more bullet points
+
+And other text...
+
+YAY!
